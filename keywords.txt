@@ -17,18 +17,18 @@ backward	KEYWORD2
 stop	KEYWORD2
 rotateLeft	KEYWORD2
 rotateRight	KEYWORD2
-leftMotorForward KEYWORD2
-leftMotorBackward KEYWORD2
-leftMotorStop KEYWORD2
-rightMotorForward KEYWORD2
-rightMotorBackward KEYWORD2
-rightMotorStop KEYWORD2
+leftMotorForward	KEYWORD2
+leftMotorBackward	KEYWORD2
+leftMotorStop	KEYWORD2
+rightMotorForward	KEYWORD2
+rightMotorBackward	KEYWORD2
+rightMotorStop	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
 #######################################
 
-Motor KEYWORD2
+Motor	KEYWORD2
 Rover	KEYWORD2
 
 #######################################
